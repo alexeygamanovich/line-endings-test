@@ -3,4 +3,7 @@ which should solve project issuess
 with file normalization
 
 Added line
-one more line
+
+one more line
+
+
