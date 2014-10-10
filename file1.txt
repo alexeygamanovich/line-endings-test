@@ -4,5 +4,4 @@ with file normalization
 
 Added line
 
-one more lineAdded line and some CR eol 
-
+one more lineAdded line and some CR eol Added line
