@@ -18,5 +18,4 @@ abc
 
 xyz
 
-git gui ignores .gitattributes
 
