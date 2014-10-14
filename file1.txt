@@ -1,28 +1,1 @@
-The test file to test approach 
-which should solve project issuess 
-with file normalization
-
-Added line
-
-one more lin
-Added line and some CR eol 
-
-
-dded lin1
-
-
-
-Added one more line
-
-
-New line with lf eol
-
-abc
-
-xyz
-
-
-abc
-
-xyz
-
+The test file to test approach which should solve project issuess with file normalizationAdded lineone more linAdded line and some CR eol Added one more lineNew line with lf eoabcxyzabc
