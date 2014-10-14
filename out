@@ -1,0 +1,51 @@
+diff --git a/file1.txt b/file1.txt
+index 279e8fc..9a1bbbe 100644
+--- a/file1.txt
++++ b/file1.txt
+@@ -1,23 +1,23 @@
+-The test file to test approach 
+-which should solve project issuess 
+-with file normalization
+-
+-Added line
+-
+-one more lin
+-Added line and some CR eol 
+-
+-Added one more line
+-
+-New line with lf eo
+-
+-abc
+-
+-
+-
+-
+-xyz
+-
+-
+-abc
+-
++The test file to test approach 
++which should solve project issuess 
++with file normalization
++
++Added line
++
++one more lin
++Added line and some CR eol 
++
++Added one more line
++
++New line with lf eo
++
++abc
++
++
++
++
++xyz
++
++
++abc
++
